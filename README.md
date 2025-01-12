@@ -1,4 +1,4 @@
-# AI Agents Project
+# AI Agents Exploration
 
 ## Overview
 The **AI Agents Project** is a modular and extensible system designed to explore emerging technologies related to AI Agents, with a particular focus on leveraging the **AutoGen Framework**. This project emphasizes experimentation, integration, and deployment of AI-driven solutions. It is built with flexibility and scalability in mind, providing an organized structure for handling configurations, secrets, and agent workflows.
