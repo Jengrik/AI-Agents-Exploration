@@ -1,0 +1,6 @@
+project_name: AI Agents Project
+author: Jhon Navarrete
+api_keys:
+  openai:
+    api_key: "load_from_secrets"
+    org_name: "load_from_secrets"
